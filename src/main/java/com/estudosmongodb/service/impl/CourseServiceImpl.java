@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.estudosmongodb.model.Course;
+import com.estudosmongodb.entity.Course;
 import com.estudosmongodb.repository.CourseRepository;
 import com.estudosmongodb.service.CourseService;
 

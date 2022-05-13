@@ -1,13 +1,12 @@
 package com.estudosmongodb.service.impl;
 
 import java.util.List;
-import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.estudosmongodb.model.Course;
-import com.estudosmongodb.model.Student;
+import com.estudosmongodb.entity.Course;
+import com.estudosmongodb.entity.Student;
 import com.estudosmongodb.repository.CourseRepository;
 import com.estudosmongodb.repository.StudentRepository;
 import com.estudosmongodb.service.StudentService;

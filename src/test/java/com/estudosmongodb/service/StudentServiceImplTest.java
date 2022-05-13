@@ -1,7 +1,7 @@
 package com.estudosmongodb.service;
 
-import com.estudosmongodb.model.Course;
-import com.estudosmongodb.model.Student;
+import com.estudosmongodb.entity.Course;
+import com.estudosmongodb.entity.Student;
 import com.estudosmongodb.repository.CourseRepository;
 import com.estudosmongodb.repository.StudentRepository;
 import com.estudosmongodb.service.impl.StudentServiceImpl;

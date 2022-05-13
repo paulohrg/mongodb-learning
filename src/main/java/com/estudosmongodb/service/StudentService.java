@@ -2,7 +2,7 @@ package com.estudosmongodb.service;
 
 import java.util.List;
 
-import com.estudosmongodb.model.Student;
+import com.estudosmongodb.entity.Student;
 
 public interface StudentService {
 
